@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: linear-gradient(to bottom, #dbeafe, #bfdbfe); /* blue-100 → blue-200 */
+  overscroll-behavior: none;
+}
+
+#root {
+  min-height: 100%;
+}
