@@ -12,11 +12,11 @@ import ScrollToTop from './components/ScrollToTop.jsx';
 import Footer from './components/footer.jsx';
 
 import Navbar from '../components/navbar.jsx';
-import Home from '../pages/Home.jsx';
-import About from '../pages/About.jsx';
+import Home from './pages/Home.jsx';
+import About from './pages/About.jsx';
 import Projects from './pages/Projects.jsx';
-import PageNotFound from '../pages/PageNotFound.jsx';
-import Resume from '../pages/Resume.jsx';
+import PageNotFound from './pages/PageNotFound.jsx';
+import Resume from './pages/Resume.jsx';
 
 // --- Layout that shows the navbar on every page ---
 function RootLayout() {
